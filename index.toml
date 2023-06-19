@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "029382b6a8c5d9cdec448c54cd9a641fede6f6f2622ee5276d6324ca59ccae68"
+hash = "65dd1cdce05c25ccf44a6d5d9cf367f88a8fee0466ef0384031903b2cf62a3d1"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "d54f903a72df78bb62d59813435ca474be8eb5e9f9519a083382a5e0e6598ed4"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "211641c639be8f1f3cf890b1215be61e4824f57d8bf3781d8cfb6f3d5d256fa4"
 
 [[files]]
 file = "config/openloader/data/rosegard/data/minecraft/dimension_type/the_nether.json"
@@ -17,8 +25,16 @@ file = "defaultconfigs/bagofholding-server.toml"
 hash = "5a2083931a795e1ab78237d367c47f4848894929de4eb9d9441e9782229a2369"
 
 [[files]]
+file = "defaultconfigs/ensorcellation-server.toml"
+hash = "d2f86af1de3355e4661b0588b14607b1110b0481e89011236100cafef5741740"
+
+[[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "8ff28794aac589e394fd3ce253db3a0545285996f2be4aa13549d27713ccd80d"
+
+[[files]]
+file = "defaultconfigs/sophisticatedcore-server.toml"
+hash = "6b195acaa54cd69e9a06c910c16c308d22d80ce6e19bee526e15216abc7c5cb8"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -681,6 +697,11 @@ hash = "1e6bf5f11d1bb7c2f3c0b7f88d8e4a60b09714a870f7a9e85c1baf93dc08df2d"
 metafile = true
 
 [[files]]
+file = "mods/oh-my-gourd.pw.toml"
+hash = "4bb4a720808bf4aeec1e4dc41524344e5ec37366341913ea202df4d3f2ad9503"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
@@ -768,6 +789,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "d067203819ca3a549dba6cf40c3234675454a16b0c930a59cfb9bd5454f14b7c"
 metafile = true
 
 [[files]]

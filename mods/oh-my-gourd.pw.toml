@@ -1,0 +1,13 @@
+name = "Oh My Gourd"
+filename = "omgourd-1.18.2-3.2.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f1255b70686b678f31df26a2e1e7f0bab2264b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4382338
+project-id = 377322
