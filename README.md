@@ -1,6 +1,6 @@
 # rosegard, 1.18 version
 
-an experimental, single-player-first modpack in the mostly prototype stage.  the only documentation is this readme file.  you probably shouldn't play this, even if you somehow have access
+an experimental, single-player-first modpack in the mostly sorta prototype stage.  there are no quests, & that's intentional; the only documentation is this readme file.
 
 design goals:
 
