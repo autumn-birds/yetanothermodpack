@@ -28,6 +28,13 @@ gotchas, alterations, tips & tricks:
     - if you find an exception that's probably a bug
 - occultism is the intended route for "searchable remote storage" in this pack *(we'll see how that works out for us...)*
 
-### development/configuration references and notes
+## development/configuration references and notes
 
 - if we encounter issues with occultism rituals that require animals to be sacrificed not working with genetic animals animals, see: https://github.com/klikli-dev/occultism/issues/486 and just datapack in the relevant tags
+- future milestones could include porting the dyntrees compat mods for atmospheric and upgrade aquatic to 1.18 / replicating the work done for those mods on 1.18
+- future milestones could include improving certain textures
+    - pam's
+    - vibrant journeys
+- should try to see if adding starlight would speed up worldgen/chunk loading without causing issues
+- difficult future milestones could include trying to fix Mana and Artifice's village system (tho unless they port to 1.19 instead of releasing 2.0 on 1.18, itll presumably be officially fixed later)
+- difficult, high-effort future milestones could include backporting some features from 1.19+ hex casting
