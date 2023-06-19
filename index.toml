@@ -171,6 +171,11 @@ hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "9a56d3c04cb0669a68cfb29278d32144719d3016edb77f178286bc53d597b32e"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "26a174a078be4f8c995515972263d71322aae276d8cd5acb49337e55ff86c06f"
 metafile = true
@@ -203,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
-metafile = true
-
-[[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "6fbf89ce864935551a59d65bd0a8ef18a1f9725caaab6d9d036118595774b95a"
 metafile = true
 
 [[files]]
@@ -343,6 +343,16 @@ metafile = true
 [[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "c0e2bf268b415c2ba72f743e42624aaff4000aa301b597cbf0355adc35594b83"
+metafile = true
+
+[[files]]
+file = "mods/enigmatic-graves.pw.toml"
+hash = "5382640c451664e0cd7d76b7fe3087fd4f673eda86b3cd0b5758647c7752a225"
+metafile = true
+
+[[files]]
+file = "mods/ensorcellation.pw.toml"
+hash = "beba364c9baca4fffd1dfe13b71f085d160ac2a2c6bb40bd05452622458a940b"
 metafile = true
 
 [[files]]
