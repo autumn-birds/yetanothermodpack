@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/advanced_options.json"
-hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+file = "README.md"
+hash = "029382b6a8c5d9cdec448c54cd9a641fede6f6f2622ee5276d6324ca59ccae68"
 
 [[files]]
 file = "config/openloader/data/rosegard/data/minecraft/dimension_type/the_nether.json"
@@ -10,7 +10,15 @@ hash = "4e19e6b20626fcda36479fa50552992c5c53f6c542cf6a2eed03172d82f78ad1"
 
 [[files]]
 file = "config/openloader/data/rosegard/pack.mcmeta"
-hash = "46e89eaba45e97170e31d7d8ce59e39c6de756850c18f46ce815496c149c1bf3"
+hash = "750e7e70debbf27d0d62421f91b9f3cf114e1a15b694187fb3d0eb3b7a545204"
+
+[[files]]
+file = "defaultconfigs/bagofholding-server.toml"
+hash = "5a2083931a795e1ab78237d367c47f4848894929de4eb9d9441e9782229a2369"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "8ff28794aac589e394fd3ce253db3a0545285996f2be4aa13549d27713ccd80d"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -840,14 +848,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "f849648e22086380cb6795098825c2b373bc9c539e7cece6c4ca81de0bc34423"
-
-[[files]]
-file = "resourcepacks/Infernal Resources.zip"
-hash = "d8f9ad919602ab59a672e8c9efc34a2e6c402c2436471e3ce7faf4134a41c466"
-
-[[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
 file = "resourcepacks/cgm-audio-visual-enhancements.pw.toml"

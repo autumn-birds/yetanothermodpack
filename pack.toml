@@ -1,10 +1,10 @@
-name = "black-hearted wizardry"
+name = "rosegard"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "96749776d77dd57b7f2e9403da79e9515ddb52fbe8c888ad84b4703a78a1db91"
+hash = "90c7462e581424841641a2ec31fdd7a35e8e9282c18d5500b21919a5aed21160"
 
 [versions]
 forge = "40.2.9"
