@@ -17,7 +17,7 @@ design goals:
 
 design non-goals, things i don't care about:
 
-- "good balance" by multiplayer-server standards, or by vanilla purist standards, or by "expert mode pack" standards
+- "good balance" by e.g., PVP standards, or by vanilla purist standards, or by "expert mode pack" standards
 - only one mod for one function!!1!
 - realism
 
