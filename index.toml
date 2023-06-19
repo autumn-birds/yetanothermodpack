@@ -38,11 +38,6 @@ hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
-metafile = true
-
-[[files]]
 file = "mods/antique-atlas.pw.toml"
 hash = "ec653b08d4f6ecc9992d1e1cffa77a305b2878db1ab447cfb038cd5e601e8d0c"
 metafile = true
@@ -598,6 +593,11 @@ hash = "3c039f216acdcfb6e21e09f157bcde98a3f47f81280612fbe26e530cab7a1083"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
+metafile = true
+
+[[files]]
 file = "mods/mystic-alchemy.pw.toml"
 hash = "c6b2017eae78c562de5bb3e86eb9615b3bfd4b49be00edf2053ed1207c93c1fd"
 metafile = true
@@ -810,6 +810,16 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "ef642f40e1f21d2e97bea3fd667b4ca66fa1e8a9fdf7835681dc024469106f51"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "3b10e784cad870859f46e991531324be20b73e7ee83c60b8b18c60a1ecfe0412"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "2633ab7dadfa500ffe019619777c89707e023549779c8fd85b8b29eadd271b32"
 metafile = true
 
 [[files]]
