@@ -9,6 +9,7 @@ design goals:
 - gardening
 - vibrant world
 - player fulfilment
+- non-frustration
 - gameplay that's slow but is gentle (making things grow) rather than grindy
 - things to tinker with, but not frustratingly puzzle-gated progression
 - a nether that's foreboding due to its sheer overgrown density above all else
@@ -26,3 +27,7 @@ gotchas, alterations, tips & tricks:
 - portable storage items can be stored "underneath" the surprisingly substantial satchel, but can't be stored in each other (and you can't put satchels in other portable storage items)
     - if you find an exception that's probably a bug
 - occultism is the intended route for "searchable remote storage" in this pack *(we'll see how that works out for us...)*
+
+### development/configuration references and notes
+
+- if we encounter issues with occultism rituals that require animals to be sacrificed not working with genetic animals animals, see: https://github.com/klikli-dev/occultism/issues/486 and just datapack in the relevant tags
