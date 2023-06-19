@@ -1,0 +1,13 @@
+name = "Mystic Alchemy"
+filename = "mystic_alchemy-0.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57404f253c7cd7f97cb3eddce84233c69d59059a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3879009
+project-id = 409492

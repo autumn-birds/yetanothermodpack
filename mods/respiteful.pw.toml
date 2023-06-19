@@ -1,0 +1,13 @@
+name = "Respiteful"
+filename = "respiteful-1.18.2-1.1.0-patch.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88de027dec02417553dcb8fcad83c7f1e4b8a18f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4463912
+project-id = 836471

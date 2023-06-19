@@ -1,0 +1,13 @@
+name = "Gardenaganza"
+filename = "gardenaganza-1.18.2-1.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f2db8059f5e7f7dec8cb30ce07a2f5d3e626c6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3900422
+project-id = 602645

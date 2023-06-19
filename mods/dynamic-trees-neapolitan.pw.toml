@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Neapolitan"
+filename = "DynamicTreesNeapolitan-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "168cc3b0ff5c8890b4a9905673b0ba9eec5d69bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4565863
+project-id = 508225

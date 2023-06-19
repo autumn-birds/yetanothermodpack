@@ -1,0 +1,13 @@
+name = "Nether Depths Upgrade"
+filename = "netherdepthsupgrade-3.0.0-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83bd95c7459cab236efaab23c45e76689c8f3acd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4526783
+project-id = 670011

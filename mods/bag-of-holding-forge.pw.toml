@@ -1,0 +1,13 @@
+name = "Bag Of Holding"
+filename = "BagOfHolding-v3.1.0-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b02429dba043acd30763ea019e5f45981e63d37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3693823
+project-id = 593996

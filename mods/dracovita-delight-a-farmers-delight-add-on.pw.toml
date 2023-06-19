@@ -1,0 +1,13 @@
+name = "Dracovita Delight (A Farmer's Delight Add-on)"
+filename = "dracovita_delight_1.0.2_forge_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e0b9c16ebae1920cd9584042b888fd4a9d96adc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4491272
+project-id = 624523

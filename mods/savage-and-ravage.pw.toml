@@ -1,0 +1,13 @@
+name = "Savage & Ravage"
+filename = "savage_and_ravage-1.18.2-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "433e7ce6a98e35f12175486782581236b71ee1b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4396963
+project-id = 381736

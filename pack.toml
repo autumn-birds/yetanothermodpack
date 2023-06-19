@@ -1,0 +1,11 @@
+name = "black-hearted wizardry"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "821885c813c9ae7f8a242bf15e8fe428dd79f6d4b32cfc016071501e51d76720"
+
+[versions]
+forge = "40.2.9"
+minecraft = "1.18.2"

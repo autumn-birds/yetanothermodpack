@@ -1,0 +1,13 @@
+name = "Squirt Gun"
+filename = "squirtgun-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3240711fe25a8e1e0d22f312cf8157af71608db3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4257283
+project-id = 716274

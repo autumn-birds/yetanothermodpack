@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Ars Nouveau"
+filename = "DynamicTreesArsNouveau-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99512fef0d8f73e45ec2d86f550de600c16ee4c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4585397
+project-id = 874028

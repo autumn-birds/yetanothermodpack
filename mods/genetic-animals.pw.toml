@@ -1,0 +1,13 @@
+name = "Genetic Animals"
+filename = "GeneticAnimals-0_8_24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "099a10c071e2c0adbc44995dd4895b16741a687c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4467257
+project-id = 313213

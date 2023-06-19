@@ -1,0 +1,13 @@
+name = "No Default Auto-Jump"
+filename = "noautojump-1.18.2-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39cc67ef82049c60892b79e50e86f60811091bf7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3669947
+project-id = 341857

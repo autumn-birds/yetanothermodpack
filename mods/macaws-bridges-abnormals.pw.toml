@@ -1,0 +1,13 @@
+name = "Macaw's Bridges - Abnormals"
+filename = "mcwbridgesabnormals-1.18.2-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fda4f44be7100637e23a92faf3bd096b108c6bba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4474864
+project-id = 621057
