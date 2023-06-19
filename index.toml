@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "65dd1cdce05c25ccf44a6d5d9cf367f88a8fee0466ef0384031903b2cf62a3d1"
+hash = "72736f803d145fda4ed53d873144be1db8ba7cebca9807310ad855abee6e20d7"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -10,7 +10,7 @@ hash = "d54f903a72df78bb62d59813435ca474be8eb5e9f9519a083382a5e0e6598ed4"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "211641c639be8f1f3cf890b1215be61e4824f57d8bf3781d8cfb6f3d5d256fa4"
+hash = "b197c0a4141ec8572f5af643268b58588cf41102e070f2d97d69c67ea8d76235"
 
 [[files]]
 file = "config/openloader/data/rosegard/data/minecraft/dimension_type/the_nether.json"
@@ -389,11 +389,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite.pw.toml"
 hash = "2e87c0d260e4e99193d9bfa22fe1650d057224c5f329631c745e958dfa885c6b"
-metafile = true
-
-[[files]]
-file = "mods/farming-for-blockheads.pw.toml"
-hash = "f61088c21613f3b3f884e24833f5fd116e13faa1e8e1e5f0f4485f18e3cd2bb5"
 metafile = true
 
 [[files]]
